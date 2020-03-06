@@ -17,7 +17,8 @@ var _v = [], _e = [];   // globals used by standard graph reader method
 function _main()
 {
    // create a graph (default undirected)
-   // graph
+   // graph mm
+
 
 
      var g = new Graph(); 
